@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9743f37418fc091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-04-12-中国古代相权演变与权力空间.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-03-28-说「阴阳」——贵「阳」与厌女.md",
+                "file": "_posts/2024-04-12-中国古代相权演变与权力空间.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-03-28-说「阴阳」——贵「阳」与厌女.md",
+                "file": "_posts/2024-04-12-中国古代相权演变与权力空间.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-03-28-说「阴阳」——贵「阳」与厌女.md"
+                "file": "_posts/2024-04-12-中国古代相权演变与权力空间.md"
               }
             }
           }
@@ -146,33 +159,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d62bd6128c7313e3",
+  "active": "c9743f37418fc091",
   "lastOpenFiles": [
-    "_site/posts/说-阴阳-贵-阳-与厌女/index.html",
-    "_site/posts/说-阴阳-贵-阳-与厌女",
-    "_site/posts/中国古代权力空间与相权演变/index.html",
-    "_site/posts/中国古代权力空间与相权演变",
-    "_site/assets/img/说阴阳_陰陽.png",
-    "_site/assets/img/说阴阳_阴阳与八卦.png",
-    "_site/assets/img/说阴阳_离卦龟壳眼睛.png",
-    "_site/assets/img/说阴阳_昜侌.png",
-    "_site/assets/img/说阴阳_斯宾诺莎.png",
-    "_site/assets/img/说阴阳_山南水北.png",
-    "_site/assets/img/说阴阳_国旗下讲话.png",
-    "_site/assets/img/说阴阳_周处除三害.png",
-    "_site/assets/img/说阴阳_.md",
-    "_site/assets/img/教堂.png",
-    "_site/assets/img/favicons/safari-pinned-tab.svg",
-    "_site/categories/杂篇/index.html",
-    "_site/categories/杂篇",
-    "_site/categories/非正经谈玄/index.html",
-    "_site/categories/非正经谈玄",
-    "_site/tags/阴阳学说/index.html",
-    "_site/tags/阴阳学说",
-    "_site/tags/女性主义/index.html",
-    "_tabs/about.md",
-    "_posts/2024-03-28-说「阴阳」——贵「阳」与厌女.md",
     "_posts/2024-03-22-中国古代权力空间与相权演变.md",
+    "_posts/2024-04-12-中国古代相权演变与权力空间.md",
+    "assets/img/相权变迁_空间.png",
+    "assets/img/相权变迁_皇相之争.png",
+    "assets/img/相权变迁_皇相之争.png.crdownload",
+    "assets/img/相权变迁_清北京与军机处.png",
+    "assets/img/相权变迁_清北京与军机处.png.crdownload",
+    "assets/img/相权变迁_明北京与内阁.png",
+    "assets/img/相权变迁_明北京与内阁.png.crdownload",
+    "assets/img/相权变迁_皇帝、内阁、司礼监与六部.png",
+    "assets/img/相权变迁_皇帝、内阁、司礼监与六部.png.crdownload",
+    "assets/img/相权变迁_皇帝、内阁与六部.png",
+    "assets/img/相权变迁_皇帝、内阁与六部.png.crdownload",
+    "assets/img/相权变迁_皇帝与六部.png",
+    "assets/img/相权变迁_皇帝与六部.png.crdownload",
+    "assets/img/相权变迁_唐长安后期.png",
+    "assets/img/相权变迁_唐长安后期.png.crdownload",
+    "assets/img/相权变迁_三省六部与内廷.png",
+    "assets/img/相权变迁_三省六部与内廷.png.crdownload",
+    "assets/img/相权变迁_唐长安前期.png",
+    "assets/img/相权变迁_唐长安前期.png.crdownload",
+    "assets/img/相权变迁_三省六部.png.crdownload",
+    "_posts/2024-03-28-说「阴阳」——贵「阳」与厌女.md",
+    "_site/assets/img/说阴阳_.md",
+    "_tabs/about.md",
     "_posts/2024-03-22-你算的是命，亦或是感觉.md",
     "_posts/2024-02-20-兵败如山倒.md",
     "_posts/成都：山水与礼法妥协.md",
