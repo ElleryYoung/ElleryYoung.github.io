@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c9743f37418fc091",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-04-12-中国古代相权演变与权力空间.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-04-12-中国古代相权演变与权力空间.md",
+                "file": "_posts/2024-03-28-说「阴阳」——贵「阳」与厌女.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-04-12-中国古代相权演变与权力空间.md",
+                "file": "_posts/2024-03-28-说「阴阳」——贵「阳」与厌女.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-04-12-中国古代相权演变与权力空间.md"
+                "file": "_posts/2024-03-28-说「阴阳」——贵「阳」与厌女.md"
               }
             }
           }
@@ -159,10 +146,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c9743f37418fc091",
+  "active": "d62bd6128c7313e3",
   "lastOpenFiles": [
-    "_posts/2024-03-22-中国古代权力空间与相权演变.md",
+    "_posts/2024-05-17-佛教四圣谛「苦集灭道」与禅宗之死-上.md",
+    "_posts/2024-03-28-说「阴阳」——贵「阳」与厌女.md",
     "_posts/2024-04-12-中国古代相权演变与权力空间.md",
+    "assets/img/禅宗之死_十二缘起4.png",
+    "assets/img/禅宗之死_十二缘起.png",
+    "_posts/2024-03-22-中国古代权力空间与相权演变.md",
     "assets/img/相权变迁_空间.png",
     "assets/img/相权变迁_皇相之争.png",
     "assets/img/相权变迁_皇相之争.png.crdownload",
@@ -178,12 +169,9 @@
     "assets/img/相权变迁_皇帝与六部.png.crdownload",
     "assets/img/相权变迁_唐长安后期.png",
     "assets/img/相权变迁_唐长安后期.png.crdownload",
-    "assets/img/相权变迁_三省六部与内廷.png",
     "assets/img/相权变迁_三省六部与内廷.png.crdownload",
-    "assets/img/相权变迁_唐长安前期.png",
     "assets/img/相权变迁_唐长安前期.png.crdownload",
     "assets/img/相权变迁_三省六部.png.crdownload",
-    "_posts/2024-03-28-说「阴阳」——贵「阳」与厌女.md",
     "_site/assets/img/说阴阳_.md",
     "_tabs/about.md",
     "_posts/2024-03-22-你算的是命，亦或是感觉.md",
